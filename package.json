@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "testcontainers": "^2.8.0"
+  }
+}
